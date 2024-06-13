@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'cutpt': Empirical estimation of cutpoint for a diagnostic test Use cutpt With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cutpt.ado
+f cutpt.sthlp
