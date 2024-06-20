@@ -1,6 +1,8 @@
 # cutpt
 Empirical estimation of cutpoint for a diagnostic test Use cutpt With STATA 18
 
+https://www.youtube.com/watch?v=tZU4qGPWSqM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
